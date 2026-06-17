@@ -20,7 +20,9 @@ export default function Page() {
         <Padding></Padding>
         <div id="ads">
           {/*  */}
-          <div className="bg-white h-screen w-full">hi hello</div>
+          <div className="bg-white h-screen w-full text-center p-12">
+            hi hello  123
+          </div>
         </div>
       </div>
     </>
